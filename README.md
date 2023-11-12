@@ -15,6 +15,8 @@ n/a
 
 The title acts as a start point, and summarises the content. The header bar features links which can be used to navigate the sections within the page. Each section is then broken down to cover the individual topics including Search Engine Optimisation(SEO), Online Reputation Management and Social Media Marketing. The aside bar further outlines the benefits of using Horiseon's services and the footer credits the company.
 
+![screenshot of deployed web-page](assets/images/horiseon-deployed-page.jpg)
+
 ## Credits
 
 edX challenge materials for the source code, images and for setting the challenge
